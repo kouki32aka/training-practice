@@ -6,7 +6,7 @@
 - 環境構築
 - Git入門
 - Day2の学習を開始
-- ① Git応用（pull / clone）
+- Git応用（pull / clone）
 - C#環境構築
 - 変数
 - if文
